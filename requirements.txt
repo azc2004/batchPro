@@ -1,0 +1,14 @@
+beautifulsoup4
+openai
+pandas
+pydantic
+requests
+streamlit>=1.23.0
+google-generativeai
+openpyxl 
+schedule
+tqdm
+presidio-analyzer 
+presidio-anonymizer 
+spacy
+python-dotenv
