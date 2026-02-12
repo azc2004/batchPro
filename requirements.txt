@@ -12,3 +12,4 @@ presidio-analyzer
 presidio-anonymizer 
 spacy
 python-dotenv
+google-genai
